@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
+
+body  {
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+}
+
+.caption {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+img {
+  width: 80%;
+}
+
+button {
+  padding: 1em;
+  margin: .2em;
+  border-color: ghostwhite;
+  border-style: none;
+  transition: 2s;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.5em;
+}
+
+button:hover {
+  background-color: cornflowerblue;
+}
